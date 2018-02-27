@@ -17,7 +17,7 @@ import java.util.concurrent.Executors;
 
 /**
  * Created by michael on 2017/11/4.
- *
+ * 接收5156传入的音频和图片数据，为每个5156 client生成一个对应的线程进行处理
  */
 public class ServerProducer implements Runnable {
 

@@ -13,7 +13,7 @@ import java.util.concurrent.ConcurrentLinkedQueue;
 
 /**
  * Created by michael on 2018/2/4.
- * 每个客户端每次通话会产生一个音频文件和多个视频文件
+ * 每个客户端每次通话会产生一个音频文件和多个图像文件
  */
 public class ServerConsumer implements Runnable  {
 
